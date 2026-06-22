@@ -16,8 +16,8 @@ Os objetivos principais são:
   *Explicação prática da regra de organização financeira em três pilares.*
 - [Machine Learning aplicado a Previsões Financeiras](https://revistaes.com.br/resumo-executivo/aplicacao-de-machine-learning-para-predicao-de-fluxo-de-caixa-em-instituicoes-financeiras)  
   *Artigo sobre uso de algoritmos para prever fluxo de caixa.*
-
-  (https://notebooklm.google.com/notebook/3f969d3d-3eb7-41c2-83c4-13eeb698d1cc)
+- [NotebookLM – Caderno Temático: Dados e Finanças](https://notebooklm.google.com/notebook/3f969d3d-3eb7-41c2-83c4-13eeb698d1cc)
+  *Projeto desenvolvido no NotebookLM com organização dos estudos sobre dados e finanças.*
 
 ---
 
@@ -44,7 +44,9 @@ Os objetivos principais são:
 - Séries temporais e previsão de tendências.
 
 ### 🔹 Mapa Mental
-
+<p align="center">
+  <img src="NotebookLM Mind Map.png" alt="Mapa Mental" width="600"/>
+</p>
 
 ---
 
